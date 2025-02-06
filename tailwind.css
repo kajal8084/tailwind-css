@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>front-page</title>
+    <style>
+        h1{
+            color: #07eb07;
+            font-size: 30px;
+            text-align: center;
+        }
+        .c1{
+            height: 130px;
+            background-color: #07eb07;
+            text-align: center;
+            font-size: 25px;
+            color: white;
+            padding: 30px;
+            
+             
+        }
+        
+        .c2{
+            display: inline-block;
+            height: 50px;
+            width: 100px;
+            background-color: #ffffff;
+            color: #07eb07;
+            border: 2px solid #07eb07;
+            margin: 10px;
+            text-align: center;
+            line-height: 50px;
+            cursor: pointer;
+            padding-top: 10px;
+        }
+        
+        .k1{
+            color: #07eb07;
+            height: 20px;
+            width: 300px;
+            border: 3px ;
+            background-color: white;
+            text-align: left;
+             
+        }
+        .k2{
+            height: 20px;
+            width: 300px;
+            border: 3px ;
+            color: blue;
+            background-color: white;
+            text-align: left;
+            margin-left: 1200px;
+            margin-top: -100px;
+        }
+        .k3{
+            margin-top: 20px;
+            margin: top;
+            
+            height: 20px;
+            width: 300px;
+            border: 3px ;
+            color: blue;
+            float: left;
+            background-color: white;
+            text-align: center;
+            margin-left: 10px;
+            margin-top: 200px;
+    }
+
+    </style>
+</head>
+<body>
+    <div>
+        <div class="c1"> 
+            Wecome TO your Website Task
+            <div class="c2">
+                Home
+            </div>
+            <div class="c2">
+                About
+            </div>
+            <div class="c2">
+                Contact
+            </div>
+        </div>
+        <br/>
+        <br/>
+        <div class="k1">
+            <h1>About css</h1> 
+            <p1> Cascading Style Sheets (CSS) 
+                allow you to style and layout 
+                your web pages, adding colors,
+                 spacing, and more.
+            </p1>
+
+        </div>
+        <br/>
+        <br/>
+        <div class="k2">
+            <h1>Box Model</h1>
+            <p1>The CSS box model describes
+                 the rectangular boxes generated
+                  for elements. It includes
+                   margins, borders, padding, 
+                   and the actual content.
+            </p1>
+        </div>
+        <div class="k3">
+            <h1>Resposive design</h1> 
+            <p1>The CSS box model describes
+                 the rectangular boxes generated
+                  for elements. It includes
+                   margins, borders, padding, 
+                   and the actual content.
+            </p1>
+        </div>
+        
+    </div>
+    
+</body>
+</html>
